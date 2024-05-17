@@ -1,7 +1,7 @@
 public class AnatomiaDasClasses {
 
     public static void main(String[] args) {
-        System.out.println ("hi");   
+        System.out.println ("Bem vindo.");   
             String primeiroNome = "Daniel";
             String segundoNome = "Campos";
             String nomeCompleto = nomeCompleto(primeiroNome,segundoNome);
